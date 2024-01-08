@@ -6,4 +6,21 @@ header{
     font-size: 48px;
     color:#4a9800;
     text-align: center;
+}#rickroll_1{
+    background-color:#39a4b6;
+    color:#fff;
+    border-radius: 100px;
+    height: 200px;
+    width: 500px;
+    font-size:72px;
+}
+#rickroll_1:hover{
+    opacity:90%;
+}
+#ricroll_1:active{
+    opacity:50%;
+}
+#rickroll_bait_1{
+    color:#36cf3e;
+    font-size: 24px;
 }
